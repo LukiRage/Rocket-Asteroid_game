@@ -16,4 +16,5 @@ The project uses components:
 
 ## Connection diagram:
 
-![spaceship-asteroid_game_schematics](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64)
+<!--![spaceship-asteroid_game_schematics](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64)-->
+<img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64" width="200"/>
