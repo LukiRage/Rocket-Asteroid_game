@@ -21,7 +21,7 @@ The project uses components:
 
 ## Game play:
 
-![game_play-short](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/081b298e-8ea0-405f-a6bd-10a75d7b2e69)
+![game_play-short](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/9b94d239-7d1e-4da8-98f8-27eb351b5c43)
 
 
 ## Connection diagram:
