@@ -19,6 +19,12 @@ The project uses components:
 - 10K potenciometer - used by player to set the spaceship vertical position across the screen (this generated the need for step-calculation .. in the future rotary encode woth integrated switch should be used),
 - push button - used to fire a shot from spaceship to asteroids that are rendered on screen in 2D (after two successfull shots the asteroid vanishes).
 
+## Game play:
+
+<img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/081b298e-8ea0-405f-a6bd-10a75d7b2e69" width="500"/>
+<!--![game_play-short](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/081b298e-8ea0-405f-a6bd-10a75d7b2e69)-->
+
+
 ## Connection diagram:
 
 <!--![spaceship-asteroid_game_schematics](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64)-->
