@@ -1,9 +1,9 @@
 ![Spaceship_Asteroid_game](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/8cc19141-a412-444b-b38f-bc0bd03f08de)
 
-[ESP_32](https://img.shields.io/badge/microcontroller-ESP_32-orange)
-[ST7789](https://img.shields.io/badge/display-ST7789-lightblue)
-[potenciometer](https://img.shields.io/badge/potenciometer-10K-green)
-[button](https://img.shields.io/badge/button-push_button-white)
+![ESP_32](https://img.shields.io/badge/microcontroller-ESP_32-orange)
+![ST7789](https://img.shields.io/badge/display-ST7789-lightblue)
+![potenciometer](https://img.shields.io/badge/potenciometer-10K-green)
+![button](https://img.shields.io/badge/button-push_button-white)
 
 
 # Spaceship - Rocket game
