@@ -28,6 +28,5 @@ The project uses components:
 
 
 ## Connection diagram:
-Push button pin should be GPIO_23
-<!--![spaceship-asteroid_game_schematics](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64)-->
-<img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64" width="450"/>
+
+<img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/c092f978-1b6c-4f96-bd0d-e4abe2851a8d" width="450"/>
