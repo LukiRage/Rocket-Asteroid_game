@@ -6,6 +6,8 @@
 ![button](https://img.shields.io/badge/button-push_button-white)
 
 
+# TO DO: Add 3 spaceship lives!!
+
 # Spaceship - Rocket game
 
 This project is the game program that runs on ESP 32 using C++ language. The main objective is to fly as long as possible in the rocket while avoiding the asteroids. The spaceship can shot asteroids if the two successfull shots are made. The timer in the top corner shows time that rocket is alive, when going into display mod the timer pauses. The display mode is when the potenciometer is set to zero and during that timer is disabled and all collisions (between spaceship, shots and asteroids) in that mode the game is presented as no-play demo.
