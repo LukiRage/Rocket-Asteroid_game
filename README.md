@@ -1,5 +1,12 @@
-\[banner\]
-\[shields\]
+![Spaceship_Asteroid_game](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/8cc19141-a412-444b-b38f-bc0bd03f08de)
+
+![ESP_32](https://img.shields.io/badge/microcontroller-ESP_32-orange)
+![ST7789](https://img.shields.io/badge/display-ST7789-lightblue)
+![potenciometer](https://img.shields.io/badge/potenciometer-10K-green)
+![button](https://img.shields.io/badge/button-push_button-white)
+
+
+# TO DO: Add 3 spaceship lives!!
 
 # Spaceship - Rocket game
 
@@ -14,7 +21,12 @@ The project uses components:
 - 10K potenciometer - used by player to set the spaceship vertical position across the screen (this generated the need for step-calculation .. in the future rotary encode woth integrated switch should be used),
 - push button - used to fire a shot from spaceship to asteroids that are rendered on screen in 2D (after two successfull shots the asteroid vanishes).
 
+## Game play:
+
+
+![game_play-short](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/6c34e677-a485-46bc-8a08-8477bb06c708)
+
+
 ## Connection diagram:
 
-<!--![spaceship-asteroid_game_schematics](https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64)-->
-<img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/e857b775-0576-4189-97ab-4fe4e82d8d64" width="450"/>
+<img src="https://github.com/RobertNeat/Rocket-Asteroid_game/assets/47086490/c092f978-1b6c-4f96-bd0d-e4abe2851a8d" width="450"/>
