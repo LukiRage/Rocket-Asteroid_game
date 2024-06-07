@@ -7,6 +7,7 @@
 extern int spaceshipX;
 extern bool movingDown;
 extern int Speed;
+extern int Spaceship_life;
 
 
 void initializeSpaceship(TFT_eSPI &tft);

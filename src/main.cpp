@@ -19,24 +19,32 @@ int current_loop_time = 0;
 int lastState = LOW;
 int currentState;
 
+int Spaceship_life;
+
 void setup() {
   //Serial.begin(115200); //debugging serial
-  tft.init();
-  tft.setRotation(1);
-  tft.fillScreen(TFT_BLACK);
+    tft.init();
+    tft.setRotation(1);
+    tft.fillScreen(TFT_BLACK);
 
-  pinMode(BUTTON_PIN, INPUT_PULLUP);
+    pinMode(BUTTON_PIN, INPUT_PULLUP);
 
-  initializeSpaceship(tft);
-  initializeAsteroids();
-  initializeShots();
+    initializeSpaceship(tft);
+    initializeAsteroids();
+    initializeShots();
+    Spaceship_life = 3; // Initialize spaceship life
+    drawHeart(tft, Spaceship_life); // Initial draw of hearts
 }
 
 void loop() {
+  
   currentTime = millis();
   currentState = digitalRead(BUTTON_PIN);
 
   if (currentTime % 30 == 0) { // Base refresh speed
+
+    
+
     last_loop_time = current_loop_time;
     current_loop_time = millis();
     int difference = current_loop_time - last_loop_time;
@@ -45,6 +53,7 @@ void loop() {
 
     updateSpaceship(tft, potValue, difference, game_time);
     drawTimer(tft,game_time);
+    drawHeart(tft, Spaceship_life);
 
     if (currentTime - lastSpawnTime >= spawnInterval) {
       spawnAsteroid(tft);
@@ -63,4 +72,5 @@ void loop() {
     updateShots(tft);
     checkCollision(tft);
   }
+  
 }
