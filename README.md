@@ -5,8 +5,9 @@
 ![potenciometer](https://img.shields.io/badge/potenciometer-10K-green)
 ![button](https://img.shields.io/badge/button-push_button-white)
 
-
-# TO DO: Add 3 spaceship lives!!
+```
+Collaboration: @LukiRage
+```
 
 # Spaceship - Rocket game
 
