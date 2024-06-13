@@ -6,7 +6,7 @@
 ![button](https://img.shields.io/badge/button-push_button-white)
 
 
-Project in collaboration with: [@LukiRage](https://github.com/LukiRage)
+Project in collaboration with: [@RobertNeat](https://github.com/RobertNeat)
 
 
 # Spaceship - Rocket game
