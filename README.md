@@ -5,9 +5,9 @@
 ![potenciometer](https://img.shields.io/badge/potenciometer-10K-green)
 ![button](https://img.shields.io/badge/button-push_button-white)
 
-```
-Collaboration: @LukiRage
-```
+
+Project in collaboration with: [@LukiRage](https://github.com/LukiRage)
+
 
 # Spaceship - Rocket game
 
